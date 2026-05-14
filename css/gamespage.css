@@ -1,0 +1,15 @@
+html{
+    height: 100%;
+    background-image: linear-gradient(to bottom, black 0%, black 5%, transparent 50%), linear-gradient(45deg, black, purple);
+}
+
+body{
+    height: 100%;
+    margin: 0;
+}
+
+#johnathan{
+        color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
